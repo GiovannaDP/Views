@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Views</string>
+    <string name="preencha_seus_dados" translatable="false">Preencha seus dados</string>
+    <string name="nome" translatable="false">Nome</string>
+    <string name="sobrenome" translatable="false">Sobrenome</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="salvar">Salvar</string>
+    <string-array name="estado_civil">
+        <item>Solteiro(a)</item>
+        <item>Casado(a)</item>
+        <item>Divorciado(a)</item>
+        <item>Viuvo(a)</item>
+    </string-array>
+</resources>
